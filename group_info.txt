@@ -1,0 +1,8 @@
+GROUP F
+AMPURIRA PHILBERT
+NABUTOONO DIANAH NDOMBI
+LUBWAMA MAURICE
+MPUUGA JONATHAN
+LUBOWA EMMANUEL
+
+As a group we learnt how to creat a git account, a git repository, how to create branches, how to invite collaraborators and how to do git push.
